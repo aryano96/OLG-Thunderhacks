@@ -1,5 +1,7 @@
 # OLG AML Sentinel
 
+**▶ Live demo: https://aryano96-olg-thunderhacks-app-aml-sentinel-dashboard-kinxpm.streamlit.app/**
+
 A SOC-style monitoring tool for OLG anti-money-laundering investigators. It watches every
 player's transactions across OLG.ca, land-based casinos and lottery retail, picks out the
 people who look like they are laundering money ("turning dirty money clean"), and puts each
@@ -8,7 +10,7 @@ happened, and exactly why the software thinks it is laundering.**
 
 ![Command center](docs/1_command.png)
 
-## Run it
+## Run it locally
 
 ```bash
 python -m venv .venv
